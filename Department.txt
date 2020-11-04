@@ -1,5 +1,7 @@
 public class Department {
    public static void main(String... args){
-
+	
+	//BUG - 501
+           System.out.println("Bug is fixed");
    }
 }
