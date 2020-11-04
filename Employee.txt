@@ -2,4 +2,9 @@ public class Employee{
      public static void main(String ... args){
 	int a = 10;
      }
+
+      //cr-123
+       public static void m1(){
+	// enhancement going on
+      }
 }
